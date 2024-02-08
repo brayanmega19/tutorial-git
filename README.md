@@ -2,13 +2,13 @@
 
 Pues si, aqui estamos modificando el reame
 
-## Getting Started
+## Que poner, no lo se
 
 Muy bien con todos los commit
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+tengo hambre
 
 ```
 Give examples
